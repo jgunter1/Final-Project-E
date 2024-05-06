@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta name="description" content="HTML, CSS">
+    <meta name="keywords" content="Events">
+    <meta name="author" content="Jaylen Gunter">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="stylesLab.css">
+    <h1>
+        We hope you enjoy our website, the other pages is still in the works since we're just starting off. 
+            If there are any problems or questions you have about our website please contact us at 
+            <a href="EveryoneGoesCamping@gmail.com">Our Email</a>
+            We hope you visit us again and have a great day!!. 
+    </h1>
+    <h2>
+        Our Number is 123-456-7890 and our email is located above 
+    </h2>
+    <h1> Below Are the Camping Sites we have so far</h1>
+    <ul> 
+        <li><a href="https://toccoavalleycampground.com/">Toccoa Valley Campground</a></li>
+    <li> <a href="https://scenicmountainrvresort.com/about/">Scenic Mountain RV Resort</a></li>
+    </ul>
+    <h2>
+        32 Camping Must Have Essentials
+    </h2>
+    <ul>
+       <li><a href="https://www.bestproducts.com/fun-things-to-do/g44964161/camping-must-haves/?utm_source=bing&utm_medium=cpc&utm_campaign=arb_bg_bp_d_bm_comm_org_us_g44964161&msclkid=bc8bbf92c97b10f70f15da778d9e3030"></a></li> 
+    </ul>
+    <p>This website states all the 32 camping must have essentials for your first camping adventure we hope you enjoy!!</p>
+    <h2> 
+        46 of the best camping gears
+    </h2>
+    <ul>
+        <li>
+            <a href="https://www.countryliving.com/shopping/g38872204/top-camping-gear/?utm_source=bing&utm_medium=cpc&utm_campaign=arb_bg_clv_d_bm_comm_lft_us_g38872204&msclkid=9de1816577911d8b2e61e4803c77c014">
+        </li>
+    </ul>
+

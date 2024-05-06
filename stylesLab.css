@@ -1,0 +1,33 @@
+header img{ 
+    float: left;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-image: linear-gradient(#f6bb72 2%, #f6bb72 25%, white 30, #f6bb26 40%);
+}
+
+h1{ 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    background-color:antiquewhite;
+    border-style: double;
+    padding: 15px;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    padding:5px;
+    background-color: rgb(20, 80, 144);
+    color: white;
+    text-align: center;
+ }
